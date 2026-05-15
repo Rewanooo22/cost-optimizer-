@@ -1,6 +1,6 @@
 # AI-Powered Production Cost Optimizer (Steepest Descent)
 
-Industrial-style **Streamlit** dashboard that minimizes a quadratic production cost in labor hours **x** and machine hours **y** using **steepest descent** (gradient descent). The UI is tuned for operations storytelling and **university presentations**: dark blue / cyan theme, KPI cards, interactive **Plotly** analytics, and structured interpretation tabs.
+This single-user decision-support demo is an industrial-style **Streamlit** dashboard that minimizes a quadratic production cost in labor hours **x** and machine hours **y** using **steepest descent** (gradient descent). The UI is tuned for operations storytelling and **university presentations**: dark blue / cyan theme, KPI cards, interactive **Plotly** analytics, and structured interpretation tabs.
 
 ## Project description
 
